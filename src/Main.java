@@ -6,8 +6,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-    public static final int ROW = 18;
-    public static final int COL = 18;
+    public static final int ROW = 15;
+    public static final int COL = 15;
 
 
     public static int startPosSelection = 1;
